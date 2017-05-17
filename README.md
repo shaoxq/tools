@@ -1,4 +1,4 @@
 # tools
-[github](https://github.com/shaoxq/tools/github)
+[github](https://github.com/shaoxq/tools/tree/master/github)
 
-[cmake](https://github.com/shaoxq/tools/cmake)
+[cmake](https://github.com/shaoxq/tools/tree/master/cmake)
