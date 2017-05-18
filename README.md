@@ -8,3 +8,15 @@
 [boost](https://github.com/shaoxq/tools/tree/master/boost)
 
 [docker](https://github.com/shaoxq/tools/tree/master/docker)
+
+[glog](https://github.com/shaoxq/tools/tree/master/glog)
+
+[ffmpeg](https://github.com/shaoxq/tools/tree/master/ffmpeg)
+
+[visual studio](https://github.com/shaoxq/tools/tree/master/visual-studio)
+
+[cuda](https://github.com/shaoxq/tools/tree/master/cuda)
+
+[video](https://github.com/shaoxq/tools/tree/master/video)
+
+[image](https://github.com/shaoxq/tools/tree/master/image)

@@ -1,0 +1,1 @@
+[标图工具生成xml文件](http://blog.csdn.net/langb2014/article/details/52795001)
