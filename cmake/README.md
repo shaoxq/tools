@@ -1,5 +1,4 @@
 # cmake tips
-Some useful marks for cmake
 
 [CMake安装和使用](http://blog.sina.com.cn/s/blog_5aee9eaf0100y36u.html)
 
