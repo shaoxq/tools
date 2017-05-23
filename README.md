@@ -20,3 +20,7 @@
 [video](https://github.com/shaoxq/tools/tree/master/video)
 
 [image](https://github.com/shaoxq/tools/tree/master/image)
+
+[go](https://github.com/shaoxq/tools/tree/master/go)
+
+[mysql](https://github.com/shaoxq/tools/tree/master/mysql)
