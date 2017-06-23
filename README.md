@@ -24,3 +24,5 @@
 [go](https://github.com/shaoxq/tools/tree/master/go)
 
 [mysql](https://github.com/shaoxq/tools/tree/master/mysql)
+
+[Jenkins](http://www.toutiao.com/a6434294818771992834/?tt_from=android_share&iid=11496272279&app=news_article&utm_medium=toutiao_android&utm_campaign=client_share)
